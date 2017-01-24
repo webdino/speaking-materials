@@ -7,6 +7,7 @@ Please send us your pull-requests to add materias or fix typoes, etc.
 
 # Materials published at
 
+* [2017](year/2017.md)
 * [2016](year/2016.md)
 * [2015](year/2015.md)
 * [2014](year/2014.md)
